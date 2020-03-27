@@ -774,7 +774,7 @@
     "replace-in-file": "^3.4.0",
     "strip-json-comments": "^2.0.1",
     "uuid": "^3.3.2",
-    "vscode-extension-telemetry": "0.0.18"
+    "vscode-extension-telemetry": "0.1.2"
   },
   "extensionDependencies": [
     "ms-vscode.azure-account"
