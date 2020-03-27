@@ -762,7 +762,7 @@
     "azure-arm-iothub": "^2.0.1",
     "azure-arm-resource": "^2.0.0-preview",
     "azure-iot-common": "^1.8.1",
-    "azure-iot-device": "^1.8.1",
+    "azure-iot-device": "^1.12.2",
     "azure-iot-device-mqtt": "^1.8.1",
     "azure-iothub": "^1.8.1",
     "body-parser": "^1.18.2",
