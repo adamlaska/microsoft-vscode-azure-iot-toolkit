@@ -1,0 +1,58 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - azure-iot-device > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - ms-rest-azure > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-device > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-arm-eventhub > ms-rest-azure > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-arm-iothub > ms-rest-azure > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-arm-resource > ms-rest-azure > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-device > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-mqtt-base > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > azure-iot-amqp-base > machina > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > azure-iot-amqp-base > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - dummy-json > handlebars > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device > azure-iot-http-base > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > azure-iot-http-base > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-device > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-mqtt-base > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iothub > azure-iot-amqp-base > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
+    - azure-iot-device-mqtt > azure-iot-device > azure-iot-http-base > azure-iot-common > getos > async > lodash:
+        patched: '2020-05-01T04:29:23.181Z'
