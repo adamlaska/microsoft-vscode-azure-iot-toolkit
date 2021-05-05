@@ -766,7 +766,7 @@
     "azure-iot-device-mqtt": "^1.8.1",
     "azure-iothub": "^1.8.1",
     "body-parser": "^1.18.2",
-    "dummy-json": "^2.0.0",
+    "dummy-json": "^2.1.0",
     "express": "^4.16.3",
     "fs-extra": "^7.0.0",
     "ms-rest": "^2.3.2",
