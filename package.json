@@ -771,7 +771,7 @@
     "fs-extra": "^7.0.0",
     "ms-rest": "^2.3.2",
     "ms-rest-azure": "^2.5.5",
-    "replace-in-file": "^3.4.0",
+    "replace-in-file": "^4.3.0",
     "strip-json-comments": "^2.0.1",
     "uuid": "^3.3.2",
     "vscode-extension-telemetry": "0.0.18"
