@@ -743,7 +743,7 @@
     "@types/terser-webpack-plugin": "^1.2.0",
     "@types/webpack": "^4.4.24",
     "fail-on-errors-webpack-plugin": "^3.0.0",
-    "mocha": "^5.1.1",
+    "mocha": "^9.2.2",
     "rimraf": "^2.6.2",
     "shebang-loader": "0.0.1",
     "terser-webpack-plugin": "^1.2.1",
